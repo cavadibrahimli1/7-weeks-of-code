@@ -1,4 +1,4 @@
-[7 Weeks of Code](https://github.com/cavadibrahimli1/12-months-of-code)
+[7 Weeks of Code](https://github.com/cavadibrahimli1/7-weeks-of-code)
 =====
 
 
